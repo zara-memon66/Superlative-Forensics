@@ -1,8 +1,10 @@
-# Awesome Forensics [![Link Status](https://github.com/cugu/awesome-forensics/workflows/CI/badge.svg)](https://github.com/cugu/awesome-forensics)
+# Superlative-Forensics
 
-Curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
-- Awesome Forensics
+Curated list of  **free** (mostly open source) forensic analysis tools and resources.
+
+- Superlative-Forensics
+
   - [Collections](#collections)
   - [Tools](#tools)
     - [Distributions](#distributions)
